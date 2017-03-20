@@ -29,3 +29,6 @@ Following are the known limitations:
 
 For using the framework please refer to the documents present in the /docs folder.
 Subscribe to the open-amp mailing list at https://groups.google.com/group/open-amp.
+
+
+Simple test change to stupid README, this is commit one.
