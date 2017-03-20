@@ -32,3 +32,6 @@ Subscribe to the open-amp mailing list at https://groups.google.com/group/open-a
 
 
 Simple test change to stupid README, this is commit one.
+
+Another change, change 2 this time.
+
